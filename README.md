@@ -5,7 +5,7 @@ AI制药
 - AI Platforms for Drug Design using Chemical Principles
 - AI Platforms for Discovering Natural Products
 
-药物研发流程: 可以参考新药从研发到上市需要经过哪些流程？
+药物研发流程: 可以参考新药从研发到上市需要经过哪些流程？（https://www.zhihu.com/question/20654032）
 AI为核心卖点的计算平台和辅助平台公司
 - Insilico: 方向偏向于计算类型，专注于应用AI技术到药物研发的全链路: 靶点识别、分子生成等
 - benevolent: 方向偏向于计算类型, 以知识图谱构建为基础，希望能够发现准确治疗的路径和途径，专注于知识图谱构建、靶点识别、精准医疗、小分子设计
